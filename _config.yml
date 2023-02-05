@@ -1,10 +1,10 @@
 #-------------------------------
 # General Site Settings
-title: Sanara
+title: Self Contemplations
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Contemplating life, the universe, and everything.
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "https://sanara.netlify.app/" # The base hostname & protocol for your site, e.g. http://example.com
+url: "https:/selfcontemplations.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
 exclude:
   - ruby
@@ -16,7 +16,7 @@ author-name: Travis Schoenberg
 #-------------------------------
 # Hero Settings
 hero:
-  image: '/images/70.jpg'
+  image: '/images/universe.jpg'
   title: 'Let Go'
   description: ''
 
