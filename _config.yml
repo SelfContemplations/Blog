@@ -21,12 +21,8 @@ hero:
   description: ''
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-github", link: "https://github.com"}
-- {icon: "ion-logo-vimeo", link: "https://vimeo.com/"}
+- {icon: "ion-logo-facebook", link: "https://facebook.com/traviisd"}
+- {icon: "ion-logo-github", link: "https://github.com/traviisd"}
 
 # Example of adding a new link to the author section and footer - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -35,7 +31,7 @@ social:
 #-------------------------------
 # Contact Settings
 contact:
-  email: traviisd@email.com # Add your email for contact form
+  email: traviisd@gmail.com # Add your email for contact form
   description: I'm always open for a chat. # Add a description of your form
 
 # NOTE
